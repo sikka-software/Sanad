@@ -1,7 +1,7 @@
 ---
-description: 
+description: use the tools listed in this rule
 globs: 
-alwaysApply: false
+alwaysApply: true
 ---
 # This project uses the packages in [package.json](mdc:package.json) for the following:
 
