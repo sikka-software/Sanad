@@ -1,6 +1,9 @@
-# Sanad
-
-# This project uses the following packages:
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# This project uses the packages in [package.json](mdc:package.json) for the following:
 
 - Next.js (Pages Router) v15.2.1 - React framework for production
 - TypeScript v5.8.2 - Static type checking
@@ -36,9 +39,3 @@
   - vaul - Drawer component
   - embla-carousel-react - Carousel component
   - react-resizable-panels - Resizable layout panels
-
-
-
-# Goals
-- [ ] Make a CLI for faster creation (i.e. `npx @sikka/sanad create my-project)
-- [ ] Make it DB agnostic and give the option for user to choose their own db and data structure
